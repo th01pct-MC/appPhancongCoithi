@@ -1,0 +1,6 @@
+{
+  "name": "Phân chia Lịch coi thi Giáo viên",
+  "description": "Ứng dụng thông minh hỗ trợ phân chia lịch coi thi cho giáo viên đảm bảo tính công bằng, chính xác và xuất dữ liệu sang Excel nhanh chóng.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
